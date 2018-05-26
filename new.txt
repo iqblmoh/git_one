@@ -1,5 +1,9 @@
 this is a new text file .
 and i am a new text file.
+<<<<<<< HEAD
 and you are an ****;
 and i am in other branch.
 i am feeling texty .
+=======
+no bad language . 
+>>>>>>> new

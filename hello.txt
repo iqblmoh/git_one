@@ -1,0 +1,1 @@
+cout<<"hello world ye to bnta  h yr";
